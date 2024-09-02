@@ -1,2 +1,2 @@
-# Git_course
+# Git_Course
 a test for learning git
